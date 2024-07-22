@@ -1,0 +1,126 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Pão Brioche"
+      },
+      {
+        "id": 2,
+        "tipo": "Pão Americano"
+      },
+      {
+        "id": 3,
+        "tipo": "Pão Australiano"
+      },
+      {
+        "id": 4,
+        "tipo": "Pão Cervejinha"
+      },
+      {
+        "id": 5,
+        "tipo": "Pão Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Costela"
+      },
+      {
+        "id": 2,
+        "tipo": "Fraldinha"
+      },
+      {
+        "id": 3,
+        "tipo": "Filé Mignon"
+      },
+      {
+        "id": 4,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 5,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 6,
+        "tipo": "Contra-Filé"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Queijo Cheddar"
+      },
+      {
+        "id": 4,
+        "tipo": "Catupiry"
+      },
+      {
+        "id": 5,
+        "tipo": "Peru"
+      },
+      {
+        "id": 6,
+        "tipo": "Queijo Prato"
+      },
+      {
+        "id": 7,
+        "tipo": "Queijo Mussarela"
+      },
+      {
+        "id": 8,
+        "tipo": "Presunto"
+      },
+      {
+        "id": 9,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 10,
+        "tipo": "Salame"
+      },
+      {
+        "id": 11,
+        "tipo": "Palmito"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em andamento"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "56fb",
+      "nome": "",
+      "carne": "Fraldinha",
+      "pao": "Pão Australiano",
+      "opcionaisdata": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    }
+  ],
+  "cancelados": []
+}
